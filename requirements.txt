@@ -1,0 +1,16 @@
+plotly
+matplotlib
+seaborn
+tensorflow
+scikit-learn-1.6.1
+numpy
+pandas
+joblib
+scipy-1.12.0
+statsmodels
+huggingface_hub
+groq
+Transformateurs
+sounddevice
+soundfile
+torch
